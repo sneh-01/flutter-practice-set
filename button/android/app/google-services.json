@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "751797845424",
+    "firebase_url": "https://flutter-and-demo-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-and-demo",
+    "storage_bucket": "flutter-and-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751797845424:android:308f08b6900ee667812a75",
+        "android_client_info": {
+          "package_name": "com.example.button"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4q_CjNY8ya_4ZT4Vd2vYW0z8MW6yWfMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
